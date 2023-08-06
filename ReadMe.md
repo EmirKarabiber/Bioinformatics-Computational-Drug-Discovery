@@ -34,9 +34,6 @@ Feel free to explore the notebooks in the order mentioned above to gain a compre
 Happy learning and drug discovery!
 
 
-Feel free to explore the notebooks in the order mentioned above to gain a comprehensive understanding of the Computational Drug Discovery project. For any questions or feedback, please contact the project contributors.
-
-Happy learning and drug discovery!
 
 
 
